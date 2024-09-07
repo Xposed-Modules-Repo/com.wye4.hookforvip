@@ -5,7 +5,7 @@
 ### 须知
 
 - 该模块是完全免费。
-- 唯一Telegram频道：https://t.me/+CbJ_SYwFIUA4YmRl
+- 唯一Telegram频道：https://t.me/hookforvip
 
 ### 说明
 
