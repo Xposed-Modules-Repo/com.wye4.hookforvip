@@ -1,5 +1,8 @@
 # Hook for VIP
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wye4.hookforvip/total)
+
+
 获取部分软件会员与去广告弹窗的模块
 
 ### 须知
