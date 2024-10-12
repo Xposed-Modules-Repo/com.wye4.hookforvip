@@ -1,6 +1,8 @@
 # Hook for VIP
 获取部分软件会员与去广告弹窗的模块<br>
 
+中文|[English](https://github.com/Xposed-Modules-Repo/com.wye4.hookforvip/blob/main/README-en-US.md)
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wye4.hookforvip/total)
 ## 须知
 - 该模块是完全免费。
