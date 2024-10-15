@@ -7,9 +7,7 @@ A Xposed module for obtaining application membership and removing ads<br>
 ## notice
 - This Xposed module is completely free.
 - Telegram：https://t.me/hookforvip
-## Explanation
 - This Xposed module is not universal, You need to download the corresponding adapted version to use the module's functions normally.
-- If you have any questions, please contact：[@HookForVip001_bot](https://t.me/HookForVip001_bot) (Due to limited technical level, it may not be solved)
 ## supports
 - 最美电子证件照_2.3.1.905
 - 99手游加速器_1.8.4
